@@ -5,8 +5,6 @@ The Framework for the lazy developer.
 ## Features
 
  * MVC
- * Authentication
- * Authorization
 
 ## Requirements
 
